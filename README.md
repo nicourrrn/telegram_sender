@@ -6,5 +6,7 @@
 2. Install depends
     ```poetry install```
 3. Run
-    ``` poetry shell
-    python main.py ```
+    ```
+    poetry shell
+    python main.py
+    ```
